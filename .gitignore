@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+grab/*/
+tools/*/
+grab_fbx/
+grab_npy/
+grab_lift/
+
+*.blend1
