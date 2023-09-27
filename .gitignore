@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+blender_utils/
 grab/*/
 tools/*/
 grab_fbx/
