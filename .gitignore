@@ -9,5 +9,6 @@ tools/*/
 grab_fbx/
 grab_npy/
 grab_lift/
+grab_lift_20/
 
 *.blend1
